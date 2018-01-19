@@ -100,3 +100,6 @@ _a super cool design will go here listing all contributors names + GitHub avatar
 ## License
 
 [MIT © Zouhir](https://oss.ninja/mit/zouhir)
+commit 1
+commit 2
+commit 3
